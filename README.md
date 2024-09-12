@@ -5,9 +5,11 @@
 Este proyecto consiste en la implementación del diseño "Page State UI Web Design (Community)" proveniente de Figma Community. La réplica fue realizada utilizando HTML, CSS y JS, optimizada para ser responsive. El diseño consiste en 3 tipos de páginas diferentes para mostrar cuando ocurra un error, se pierda la conexión o no se encuentre algún resultado.
 
 ## Enlaces del proyecto
-![Error 404](./error-404.html)
-![Lost Conection](./lost-connection.html)
-![No results](./no-results.html)
+[Error 404](https://waldo-noe-liberato-jara.github.io/Page-State-UI-Design---Responsive/error-404.html)
+
+[Lost Connection](https://waldo-noe-liberato-jara.github.io/Page-State-UI-Design---Responsive/lost-connection.html)
+
+[No Results](https://waldo-noe-liberato-jara.github.io/Page-State-UI-Design---Responsive/no-results.html)
 
 ## Capturas de pantalla
 
